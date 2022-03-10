@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Nick and I am a software engineer.
+
+## Setup
+Macbook Pro 14"
+Keychron K8 w/ Gazzew Boba U4 switches
+Logitech MX Master 
+Gigabyte M32U 144Hz
 
 <!--
 **nickmartink/nickmartink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
