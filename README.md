@@ -40,12 +40,12 @@ I love to work on interesting projects and with ambitious companies.
 ### Find Me
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://raw.githubusercontent.com/nickmartink/nickmartink/master/icons/LI-In-Bug.png 
+[1.2]: https://raw.githubusercontent.com/nickmartink/nickmartink/master/icons/icons8-twitter.svg
+[2.2]: https://raw.githubusercontent.com/nickmartink/nickmartink/master/icons/icons8-linkedin.svg
 
 <!-- Links to your social media accounts -->
 
