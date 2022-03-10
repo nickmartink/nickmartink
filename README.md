@@ -36,9 +36,13 @@ I love to work on interesting projects and with ambitious companies.
 
 
 ### Find Me
-<!-- Actual text -->
+You can find me on socials or through my company, Tenasta Ltd. We shape better digital products and technology teams.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+[![Twitter][1.2]][1]
+[![LinkedIn][2.2]][2]
+
+<a href="https://www.tenasta.com/" target="_blank">![Tenasta](https://www.tenasta.com/images/logo-header.png)</a>
+
 
 <!-- Icons -->
 
@@ -49,11 +53,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/nickmartink
 [2]: https://www.linkedin.com/in/nicholas-martin-kruck-04876038/
-
-Or at my company, Tenasta Ltd. We shape better digital products and technology teams.
-
-<a href="https://www.tenasta.com/" target="_blank">![Tenasta](https://www.tenasta.com/images/logo-header.png)</a>
-
 
 <!--
 **nickmartink/nickmartink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
