@@ -52,7 +52,7 @@ You can find me on socials or through my company, Tenasta Ltd. We shape better d
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/nickmartink
-[2]: https://www.linkedin.com/in/nicholas-martin-kruck-04876038/
+[2]: https://www.linkedin.com/in/nicholas-martin-kruck/
 
 <!--
 **nickmartink/nickmartink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
